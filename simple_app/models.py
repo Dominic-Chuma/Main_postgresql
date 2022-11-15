@@ -29,3 +29,5 @@ class ActionRecord(models.Model):
 
     def __str__(self) -> str:
         return self.name
+
+# New class Addition.
